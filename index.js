@@ -1,4 +1,7 @@
+import { name } from './variables.js'
+
 console.log('hi');
+console.log(name);
 
 //ES5 (JS 2009)
 var fruits = ["Banana", "Orange", "Apple", "Mango"];
